@@ -1,0 +1,6 @@
+---
+applications:
+- name: hello-datadog-cf-java
+  path: hello.jar
+  buildpack: https://github.com/cloudfoundry/multi-buildpack
+

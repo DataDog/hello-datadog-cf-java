@@ -1,0 +1,3 @@
+buildpacks:
+  - "https://cloudfoundry.datadoghq.com/datadog-cloudfoundry-buildpack/datadog-cloudfoundry-buildpack-3.3.0.zip"
+  - "https://github.com/cloudfoundry/java-buildpack/releases/download/v4.13/java-buildpack-v4.13.zip"
